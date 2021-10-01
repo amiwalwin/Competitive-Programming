@@ -1,2 +1,2 @@
-# Competitive-Programming1
+# Competitive-Programming
 This Repo contains the common question codes for competitive programming practice 
